@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761680154 source:/home/lucas-alves/MEGA/GitHub_senoratec/C_Com_Classe/PonteiroII/main.cpp
+	<iostream>
+	<cstddef>
+
